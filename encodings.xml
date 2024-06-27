@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/rain/bean/AdminBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/bean/BookBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/bean/HistoryBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/dao/AdminDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/dao/BookDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/dao/ProblemDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/dao/TypeDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/servlet/AddAdminServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/servlet/AddBookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/servlet/AddBookTypeServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/servlet/AddProblemServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/servlet/bdtimesServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/rain/util/DBUtil.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
